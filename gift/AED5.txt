@@ -1,0 +1,149 @@
+CATEGORY: $course$/AED5
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 1.3. Mensalmente a empresa vai sortear grupos de 100 clientes e enviar brindes para as clientes do sexo feminino. Dentre os brindes haverá viagem em grupo. Há entretanto uma limitação de 18 passageiros para o pacote de viagem. 
+Qual o percentual de grupos deve ser atendido com esse número? (informe o valor truncado em duas casas e com .) {=0.36} 
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 1.4. A empresa deveria rever a campanha de viagens, por exemplo incluindo mais um transporte para 18 passageiros? 
+Se sim, qual o percentual passaria a ser atendido. (informe o valor truncado em duas casas e com .) {=0.99} 
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 2.3. Qual a probabilidade da pilha durar mais que 65h?
+{
+= 0.047
+~ 0.117
+~ 0.327
+~ 0.218
+~ 0.817
+} 
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 3.1. Um servidor tem duração média de 18000 horas ininterruptas de operação, sem falhas de Hardware, com uma distribuição normal de desvio padrão de 500 horas. Em um novo Data Center foram instalados 1000 desses servidores. A empresa quer fazer uma reserva para as manutenções. 
+Quantos servidores é esperado apresentar falhas até o segundo ano?
+{
+= cerca de 169 servidores
+~ cerca de 179 servidores
+~ cerca de 189 servidores
+~ cerca de 269 servidores
+~ cerca de 219 servidores
+}
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 3.2. Quantos servidores devem apresentar falha no terceiro ano?
+{
+= cerca de 831 servidores
+~ cerca de 131 servidores
+~ cerca de 431 servidores
+~ cerca de 621 servidores
+~ cerca de 219 servidores
+}
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 4.2. Qual é a porcentagem de alunos com até 70 pontos no exame?
+{
+= 0.43
+~ 0.63
+~ 0.57
+~ 0.71
+~ 0.39
+}
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 4.3. Qual a nota dos alunos abaixo e acima dos percentis de 10% e 90% de notas?
+{
+= 57 e 87 pontos respectivamente
+~ 47 e 87 pontos respectivamente
+~ 57 e 77 pontos respectivamente
+~ 47 e 77 pontos respectivamente
+~ 67 e 97 pontos respectivamente
+}
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 4.4. Qual a nota de corte para abranger 75% dos candidatos para uma segunda fase?
+{
+= 64
+~ 74
+~ 71
+~ 73
+~ 68
+}
+
+Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_5_ex.ipynb
+para desenvolver o código e responder a pergunta. 
+\n Exercício 5.1. A distribuição de renda no Brasil é melhor representada por distribuições\:
+{
+= com assimetria negativa
+~ com assimetria positiva
+~ com assimetria bicaudal
+~ normais
+~ uniformes para valores de baixa renda
+}
+
+Uma distribuição uniforme é aquela em que todos os valores tem a mesma probabilidade de ocorrer. Entretanto, não existem
+quaisquer situações práticas em que isso ocorre {F}
+
+Considere sucessivas jogadas de um dado. De acordo com a lei dos grandes números podemos afirmar que\: 
+{ 
+~ A probabilidade de termos o número 6 é mais próxima de 1/6 a medida que mais vezes repetimos as jogadas
+= A razão de vezes que o número 6 aparece é mais próxima de 1/6 a medida que mais vezes repetimos as jogadas
+~ A probabilidade de termos o número 6 é mais próxima de 1/2 a medida que mais vezes repetimos as jogadas
+~ A razão de vezes que o número 6 aparece é mais próxima de 1/2 a medida que mais vezes repetimos as jogadas
+~ Nenhuma das alternativas, isso está mais relacionado ao teorema central do limite
+} 
+
+Considere o teorema central do limite. Podemos afirmar que\: \n
+\n i. É um outro nome dado àa lei dos grandes números
+\n ii. Ele é importante por que relaciona a distribuição normal a uma série de problemas
+\n iii. Ele se aplica somente a dados com distribuição normal
+\n \n Estão corretas\:
+{ 
+~ Todas as alternativas
+= Somente ii
+~ Somente iii
+~ Somente i, iii
+~ Somente ii, iii
+} 
+
+Considere o teorema central do limite. Podemos afirmar que\: \n
+\n i. Ele associa a média de variáveis à distribuição normal para quaisquer distribuições dessas variáveis 
+\n ii. Ele relaciona as distribuições normal e t-Student para grandes amostras  
+\n iii. Ele permite afirmar que a média dos resultados dos lançamentos de uma dado terá uma distribuição com média 3.5
+\n \n Estão corretas\:
+{ 
+~ Todas as alternativas
+~ Somente ii
+~ Somente iii
+= Somente i, iii
+~ Somente ii, iii
+} 
+
+Considere as seguintes afirmativas sobre o z-score\: \n
+\n i. É uma medida de dispersão de uma variável aleatória
+\n ii. Fornece quantos desvios padrão um dado valor está distante em relação à média 
+\n iii. Pode ser empregado para compararmos diferentes conjuntos de dados
+\n \n Estão corretas\:
+{ 
+~ Todas as alternativas
+~ Somente ii
+~ Somente iii
+~ Somente i, iii
+= Somente ii, iii
+} 
+
+Assinale a alternativa que contenha somente distribuições simétricas\:
+{
+~ normal, t-Student, chi-quadrado, poisson
+~ normal, t-Student, chi-quadrado, binomial
+= normal, t-Student, uniforme, binomial
+~ normal, t-Student, poisson
+~ normal, t-Student, uniforme, binomial, poisson
+} 
