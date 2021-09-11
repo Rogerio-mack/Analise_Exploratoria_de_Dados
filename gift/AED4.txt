@@ -1,4 +1,4 @@
-CATEGORY: $course$/AED3
+CATEGORY: $course$/AED4
 
 Acesse https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados/blob/main/AED_4_ex.ipynb
 para desenvolver o código e responder a pergunta. 
