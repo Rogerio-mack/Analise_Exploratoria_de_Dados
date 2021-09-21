@@ -36,4 +36,4 @@
 <br>
 
 * [AED 8 Ponto de Partida](http://meusite.mackenzie.br/rogerio/AED_videos/AED_8_ponto_partida.mp4) *Teorema de Bayes*
-* [AED_8 Professor Resolve](http://meusite.mackenzie.br/rogerio/AED_videos/AED_8_prof_resolve.mp4) *Cálculo de Probabilidades*
+* [AED_8 Professor Resolve](http://meusite.mackenzie.br/rogerio/AED_videos/AED_8_prof_resolve.mp4) *Cálculo de Informação Mútua*
