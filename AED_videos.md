@@ -1,5 +1,9 @@
 # AED Vídeos
 
+* [AED_0 Apresentação da Disciplina](http://meusite.mackenzie.br/rogerio/AED_videos/AED_0_apresentacao.mp4) *Apresentação dos Ambientes de Programação R*
+
+<br>
+
 * [AED_1 Ponto de Partida](http://meusite.mackenzie.br/rogerio/AED_videos/AED_1_ponto_partida.mp4) *Apresentação dos Ambientes de Programação R*
 * [AED_1 Professor Resolve](http://meusite.mackenzie.br/rogerio/AED_videos/AED_1_prof_resolve.mp4) *Analisando Buscas no Google Trends e Outras Ferramentas de Dados Públicos*
 
