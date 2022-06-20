@@ -1,3 +1,9 @@
+<a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
+
+<br>
+
+<br>
+
 # [AED Análise Exploratória de Dados com R e Python](https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados)
 
 > *Para acesso ao conteúdo clique nos Capítulos ou no Título, ou acesse* [aqui](https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados).
