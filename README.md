@@ -6,7 +6,7 @@
 
 # [AED Análise Exploratória de Dados com R e Python](https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados)
 
-Oliveira, R. (2021). **AED Análise Exploratória de Dados com R e Python**. (pp. 1–230). eBook. DOI: https://doi.org/10.5281/zenodo.6672787 
+Oliveira, R. (2021). **AED Análise Exploratória de Dados com R e Python**. (pp. 1–230). eBook. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6672787.svg)](https://doi.org/10.5281/zenodo.6672787) 
 
 
 > *Para acesso ao conteúdo clique nos Capítulos ou no Título, ou acesse* [aqui](https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados).
