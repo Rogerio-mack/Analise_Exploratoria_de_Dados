@@ -8,6 +8,10 @@
 
 > *Para acesso ao conteúdo clique nos Capítulos ou no Título, ou acesse* [aqui](https://github.com/Rogerio-mack/Analise_Exploratoria_de_Dados).
 
+<br>
+
+<br>
+
 ## Introdução
 
 Você já deve ter notado que nos últimos anos os investimentos na infraestrutura de negócios, a transformação digital e o surgimento de novos negócios melhoraram muito a capacidade das empresas em coletar dados surgindo um grande volume de dados para a tomada de decisões. Praticamente todos os aspectos dos negócios hoje podem ser coletados e transformados em dados: da manufatura aos serviços financeiros; dos serviços de saúde aos dados de comportamento dos clientes em um site de vendas ou serviços; dos dados de campanhas eleitorais aos dados de desmatamento; dos jogos esportivos à performance dos atletas. E há ainda uma grande disponibilidade de dados externos, como dados abertos de governos ou, ainda, informações de previsão do tempo ou tráfego que podem ser obtidas a partir de uma API à serviços em nuvem. A Ciência de Dados é ciência que busca transformar todo esse grande volume de dados em informações e conhecimentos úteis à tomada de decisões, e a Análise Exploratória dos Dados, que você vai estudar aqui é, em geral, a primeira fase desse processo.
